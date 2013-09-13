@@ -1,0 +1,15 @@
+title : Dance in the Rain
+tagline: Site Tagline
+author :
+  name : Stephen Xu
+  email : blah@email.test
+  github : username
+  twitter : username
+  feedburner : feedname
+
+navigation :
+  - archive
+  - tags
+  - categories
+  - pages
+  - about

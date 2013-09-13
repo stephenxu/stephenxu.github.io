@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Dance in the Rain</title>
+    <description>Dance in the Rain</description>
+    <link>http://stephenxu.info</link>
+    <pubDate>2013-09-14 02:31:16 +0800</pubDate>
+    <item>
+      <title>helloworld</title>
+      <link>http://stephenxu.info/new/helloworld</link>
+      <pubDate>2013-09-12</pubDate>
+      <description>&lt;p&gt;test111111&lt;/p&gt;
+</description>
+    </item>
+  </channel>
+</rss>
